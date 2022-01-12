@@ -1,7 +1,6 @@
 ---
 layout: default
-title: child
-parent: Parent
+title: Template
 nav_order: 2
 ---
 
@@ -16,3 +15,13 @@ nav_order: 2
 
 ---
 
+## Template
+
+```md
+---
+layout: default
+title: Template
+parent: Parent
+nav_order: 2
+---
+```
